@@ -1,5 +1,5 @@
 
-now let's add our grid layout in between
+Now let's add our grid layout in between
 
 #wrapper{
 	margin-top:16px;
@@ -52,6 +52,22 @@ height:30px;
 #main::-webkit-scrollbar {
     display: none;
 }
-.media-object{
+.comment {
+    margin: 0;
+}
+.tab-content{
+ font-size:10px;
+}
+	
+.media-object {
 	height:32px;
 	width:32px;
+}	
+.tab-text{
+	font-size:12px;
+}	
+
+
+.downtown{
+	display: inline;
+}	
